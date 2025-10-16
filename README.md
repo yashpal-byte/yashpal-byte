@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @yashpal-byte
-I’m Yashpal — a backend brain with an AI twist. I love designing efficient systems, debugging logic, and connecting the dots between backend engineering, data, and intelligence. I’m always refining — whether it’s my code, my workflow, or the way I think about solving problems.
+- 👋 Hi, I’m @yashpal-byte — a backend brain with an AI twist. I love designing efficient systems, debugging logic, and connecting the dots between backend engineering, data, and intelligence. I’m always refining — whether it’s my code, my workflow, or the way I think about solving problems.
 For me, tech isn’t just about tools — it’s about building things that make sense, scale well, and stay smart.
 Where code meets curiosity — and efficiency always wins.
 
